@@ -1,4 +1,5 @@
 import telebot
+from data import fish_info, diseases
 print("شروع برنامه")
 from config import TOKEN
 
