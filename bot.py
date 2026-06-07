@@ -1,6 +1,8 @@
 import telebot
 from telebot import types
-from config import TOKEN
+import os
+
+TOKEN = "8929864561:AAEaMp8L8LnExiYT-m9WZj-Svjt2I1jtWvg"
 from data import fish_info, diseases, compatibility
 
 print("شروع برنامه")
