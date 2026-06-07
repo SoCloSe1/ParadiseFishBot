@@ -4,8 +4,8 @@ import os
 
 from data import fish_info, diseases, compatibility
 
-TOKEN = os.getenv("8929864561:AAEaMp8L8LnExiYT-m9WZj-Svjt2I1jtWvg")
-bot = telebot.TeleBot("8929864561:AAEaMp8L8LnExiYT-m9WZj-Svjt2I1jtWvg")
+TOKEN = os.getenv("TOKEN")
+bot = telebot.TeleBot("TOKEN")
 
 CHANNEL_USERNAME = "@fishparadiseiran"
 
